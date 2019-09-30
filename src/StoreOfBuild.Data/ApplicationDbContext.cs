@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using StoreOfBuild.Domain.Products;
+
 namespace StoreOfBuild.Data
 {
     public class ApplicationDbContext : DbContext

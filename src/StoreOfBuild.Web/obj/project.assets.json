@@ -4438,6 +4438,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "StoreOfBuild.DI/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StoreOfBuild.DI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StoreOfBuild.DI.dll": {}
+        }
       }
     }
   },
@@ -12064,13 +12077,19 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "StoreOfBuild.DI/1.0.0": {
+      "type": "project",
+      "path": "../StoreOfBuild.DI/StoreOfBuild.DI.csproj",
+      "msbuildProject": "../StoreOfBuild.DI/StoreOfBuild.DI.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "StoreOfBuild.DI >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12080,11 +12099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\ApplicationCore\\src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj",
-      "projectName": "StoreOfBuild.Web",
-      "projectPath": "C:\\Git\\ApplicationCore\\src\\StoreOfBuild.Web\\StoreOfBuild.Web.csproj",
+      "projectUniqueName": "C:\\Git\\ApplicationCore\\src\\StoreOfBuild.web\\StoreOfBuild.web.csproj",
+      "projectName": "StoreOfBuild.web",
+      "projectPath": "C:\\Git\\ApplicationCore\\src\\StoreOfBuild.web\\StoreOfBuild.web.csproj",
       "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\ApplicationCore\\src\\StoreOfBuild.Web\\obj\\",
+      "outputPath": "C:\\Git\\ApplicationCore\\src\\StoreOfBuild.web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12102,7 +12121,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Git\\ApplicationCore\\src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj": {
+              "projectPath": "C:\\Git\\ApplicationCore\\src\\StoreOfBuild.DI\\StoreOfBuild.DI.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

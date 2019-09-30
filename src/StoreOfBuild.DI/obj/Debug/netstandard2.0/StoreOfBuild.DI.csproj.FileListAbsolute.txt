@@ -1,0 +1,9 @@
+C:\Git\ApplicationCore\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.DI.deps.json
+C:\Git\ApplicationCore\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.DI.dll
+C:\Git\ApplicationCore\src\StoreOfBuild.DI\bin\Debug\netstandard2.0\StoreOfBuild.DI.pdb
+C:\Git\ApplicationCore\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.csproj.CoreCompileInputs.cache
+C:\Git\ApplicationCore\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.AssemblyInfoInputs.cache
+C:\Git\ApplicationCore\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.AssemblyInfo.cs
+C:\Git\ApplicationCore\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.dll
+C:\Git\ApplicationCore\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.pdb
+C:\Git\ApplicationCore\src\StoreOfBuild.DI\obj\Debug\netstandard2.0\StoreOfBuild.DI.csprojAssemblyReference.cache
