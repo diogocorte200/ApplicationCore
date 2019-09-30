@@ -1,0 +1,4 @@
+C:\Git\ApplicationCore\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.csprojAssemblyReference.cache
+C:\Git\ApplicationCore\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.csproj.CoreCompileInputs.cache
+C:\Git\ApplicationCore\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.AssemblyInfoInputs.cache
+C:\Git\ApplicationCore\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.AssemblyInfo.cs
